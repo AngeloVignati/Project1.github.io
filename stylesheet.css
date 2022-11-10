@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica sans-serif;
+}
+h1 {
+    background-image: url("/Users/angelo/Desktop/Il Pulcino Programmatore/Project 1/resources/img_1.jpeg");
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+.brushes {
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    background-color: mediumspringgreen;
+}
+.frames {
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    background-color: lightcoral;
+}
+.paint {
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    background-color: skyblue;
+}
+
+p {
+    text-align: left;
+}
+.price {
+    font-weight: bold;
+    color: blue;
+}
